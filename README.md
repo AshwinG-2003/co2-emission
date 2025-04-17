@@ -1,2 +1,2 @@
-# co2-emission
-A global data analysis exploring trends and insights in CO₂ emissions across countries and time
+# CO2 Emission across countries and time
+To view the full analysis please click on analysis.ipynb
